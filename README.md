@@ -23,7 +23,7 @@ dependencies {
     implementation 'com.github.abhishekaudupa:CustomProgressIndicator:1.0.0'
 }
 ```
-
+# Usage
 Below xml code shows how to use the CustomProgressIndicator.
 
 ```sh
