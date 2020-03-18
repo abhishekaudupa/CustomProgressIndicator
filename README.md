@@ -5,6 +5,9 @@
 A simple progress indicator view for Android written in Kotlin.
 ![alt text](https://github.com/abhishekaudupa/CustomProgressIndicator/blob/master/device-2020-03-18-165850.png)
 
+![alt text](https://github.com/abhishekaudupa/CustomProgressIndicator/blob/master/device-2020-03-18-212019.gif)
+![alt text](https://github.com/abhishekaudupa/CustomProgressIndicator/blob/master/device-2020-03-18-212310.gif)
+
 # Gradle
 Dependencies as below
 
