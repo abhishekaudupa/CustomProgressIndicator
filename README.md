@@ -40,8 +40,8 @@ Below xml code shows how to use the EqualizerProgressIndicator.
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
-- app:animationSpeedFactor -> Higher the number, slower the animation speed.
-- app:animationStyle -> Two animation styles are available currently: @integer/wave and @integer/spring. Explore yourselves.
-- app:barColor -> As the name suggests. Default color is @color/colorPrimary
-- app:barCount -> Number of bars in the equalizer. Default is 5.
-- app:barWidthFactor -> Adjusts the width of the bar. Set a number between 0 and 1. Higher the number, thicker the bar. Default value is 0.5.
+- ```app:animationSpeedFactor``` -> Higher the number, slower the animation speed.
+- ```app:animationStyle``` -> Two animation styles are available currently: @integer/wave and @integer/spring. Explore yourselves.
+- ```app:barColor``` -> As the name suggests. Default color is @color/colorPrimary
+- ```app:barCount``` -> Number of bars in the equalizer. Default is 5.
+- ```app:barWidthFactor``` -> Adjusts the width of the bar. Set a number between ```0``` and ```1```. Higher the number, thicker the bar. Default value is ```0.5```.
