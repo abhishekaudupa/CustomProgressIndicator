@@ -24,10 +24,10 @@ dependencies {
 }
 ```
 
-Below xml code shows how to use the EqualizerProgressIndicator.
+Below xml code shows how to use the CustomProgressIndicator.
 
 ```sh
-<com.abhishekaudupa.android.equalizerprogressindicator.EqualizerProgressIndicatorView
+<com.abhishekaudupa.android.customprogressindicator.CustomProgressIndicator
         android:layout_width="100dp"
         android:layout_height="100dp"
         app:animationSpeedFactor="70"
