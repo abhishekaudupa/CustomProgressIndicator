@@ -43,6 +43,6 @@ Below xml code shows how to use the CustomProgressIndicator.
 ```
 - ```app:animationSpeedFactor``` -> Higher the number, slower the animation speed.
 - ```app:animationStyle``` -> Two animation styles are available currently: ```@integer/wave``` and ```@integer/spring```. Explore yourselves.
-- ```app:barColor``` -> As the name suggests. Default color is @color/colorPrimary
-- ```app:barCount``` -> Number of bars in the equalizer. Default is 5. Recommended to keep the count an odd number. Looks good that way.
+- ```app:barColor``` -> As the name suggests. Default color is ```@color/colorPrimary```.
+- ```app:barCount``` -> Number of bars in the equalizer. Default is ```5```. Recommended to keep the count an odd number. Looks good that way.
 - ```app:barWidthFactor``` -> Adjusts the width of the bar. Set a number between ```0``` and ```1```. Higher the number, thicker the bar. Default value is ```0.5```.
