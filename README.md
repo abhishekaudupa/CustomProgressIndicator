@@ -3,6 +3,7 @@
 [![](https://jitpack.io/v/abhishekaudupa/CustomProgressIndicator.svg)](https://jitpack.io/#abhishekaudupa/CustomProgressIndicator)
 
 A simple progress indicator view for Android written in Kotlin.
+![alt text](https://github.com/abhishekaudupa/CustomProgressIndicator/blob/master/device-2020-03-18-165850.png)
 
 # Gradle
 Dependencies as below
